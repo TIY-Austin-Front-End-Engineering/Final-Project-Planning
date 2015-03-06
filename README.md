@@ -28,7 +28,9 @@ After completing this assignment, you be able to effectively use
 
 ### Deliverables
 
-* Create a GitHub repo for your final project.
+* Create a GitHub repo for your final project. Read up on how to use markdown to format your project README if you don't already know how.
+	* [Markdown Basics](https://help.github.com/articles/markdown-basics/)
+	* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
 * Watch this TED Talk. Fair warning: it's kind of cheesy and dated and might make you cringe, but some of the points are great for how to structure your project pitch.
 	* [How great leaders inspire action](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en).
 * Write up a short (half page) description of your project keeping in mind the "golden circle" that was talked obout in the TED talk. Put it in your repo README.
@@ -57,6 +59,7 @@ After completing this assignment, you be able to effectively use
 	* **TEST OUT EVERY API AND LIBRARY THAT YOU WANT TO USE** - put together a demo of each one showing how it can be used (in a simple form) to accomplish what you need.
 		* For APIs it might be just querying the API for the information you need and console.log'ing the information.
 		* For any libraries it might be just getting their demo example
+* Add links to your LinkedIn, Twitter, etc. at the bottom of the repo README so interested people can contact you about your project.
 
 ### Requirements
 
