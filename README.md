@@ -28,7 +28,7 @@ After completing this assignment, you be able to effectively use
 
 ### Deliverables
 
-* Create a GitHub repo for your final project. Read up on how to use markdown to format your project README if you don't already know how.
+* Create a GitHub repo for your final project. Read up on how to use markdown to format your project README if you don't already know how. Use this [Example README](/EXAMPLE_README.md) as a starting point.
 	* [Markdown Basics](https://help.github.com/articles/markdown-basics/)
 	* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
 * Watch this TED Talk. Fair warning: it's kind of cheesy and dated and might make you cringe, but some of the points are great for how to structure your project pitch.
