@@ -12,7 +12,7 @@ After completing this assignment, you should…
 
 * Understand how to come up with your own user stories.
 * Understant how to put together wireframes.
-* Be able to think about and sketch out the models and relationahips of the data for your project.
+* Be able to think about and sketch out the models and relationships of the data for your project.
 
 
 ### Performance Objectives
@@ -28,10 +28,10 @@ After completing this assignment, you be able to effectively use
 
 ### Deliverables
 
+* Create a GitHub repo for your final project.
 * Watch this TED Talk. Fair warning: it's kind of cheesy and dated and might make you cringe, but some of the points are great for how to structure your project pitch.
 	* [How great leaders inspire action](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en).
 * Write up a short (half page) description of your project keeping in mind the "golden circle" that was talked obout in the TED talk. Put it in your repo README.
-* Create a GitHub repo for your final project.
 * Balsamiq mockups or pictured of sketches of the pages and flow of your application.
 	* Sketch out which pages will link to other pages with arrows.
 	* Digitize these and include them in your repo with links in the README.
