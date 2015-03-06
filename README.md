@@ -36,6 +36,8 @@ After completing this assignment, you be able to effectively use
 	* Sketch out which pages will link to other pages with arrows.
 	* Digitize these and include them in your repo with links in the README.
 * A link to a trello board with a complete list of user stories for your app with estimates
+	* User stories should start with: "As a <type of user> I want ..."
+	* Inside of each user story create a checklist of all of the things you will need to do to complete that user story including things like testing and deploying.
 	* Estimates should be either 0.5 days, 1 day or 3 days. **Anything greater than 3 days should be broken out into multiple smaller user stories.**
 	* Add my trello account as a user on your trello board. My username is **aaron_larner**.
 	* Link to your trello board in your README.
@@ -54,9 +56,13 @@ After completing this assignment, you be able to effectively use
 	* This should also include any APIs that you will be using - including links to relavent documentation that describes how the API can be used to do what you want to accomplish.
 	* **TEST OUT EVERY API AND LIBRARY THAT YOU WANT TO USE** - put together a demo of each one showing how it can be used (in a simple form) to accomplish what you need.
 		* For APIs it might be just querying the API for the information you need and console.log'ing the information.
-		* For any libraries it might be just getting their demo example working.
+		* For any libraries it might be just getting their demo example
 
 ### Requirements
 
 * You should have at least 10 user stories.
 
+## Additional Resources
+
+* Read [Markdown Basics](https://help.github.com/articles/markdown-basics/)
+* Read [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
