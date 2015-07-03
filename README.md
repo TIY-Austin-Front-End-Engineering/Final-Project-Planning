@@ -11,7 +11,7 @@ Go through this assignment to come up with a solid game plan and project require
 After completing this assignment, you should…
 
 * Understand how to come up with your own user stories.
-* Understant how to put together wireframes.
+* Understand how to put together wireframes.
 * Be able to think about and sketch out the models and relationships of the data for your project.
 
 
