@@ -14,7 +14,7 @@ Links to wireframes of your project. Ideally embed them in this README.
 
 ## Models
 
-A list of all of your models with necessary information. Use either a markdown list or embed code (using ``` syntax) of what your waterline JSON models will look like.
+A list of all of your models with necessary information. Use either a markdown list or embed code (using ``` syntax) of what your JSON models will look like.
 
 ## APIs, Plugins, Libraries and Frameworks
 
