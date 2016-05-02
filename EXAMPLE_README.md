@@ -6,7 +6,7 @@ A half page description of your project. Start with why, then how, then what.
 
 ## User Stories
 
-Include a link to your trellow board with user stories.
+Include a link to your Trello board with user stories.
 
 ## Wireframes
 
